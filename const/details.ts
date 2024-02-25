@@ -1,6 +1,6 @@
-import { Chain, Mumbai } from "@thirdweb-dev/chains";
+import { Chain, Base } from "@thirdweb-dev/chains";
 
 export const TOKEN_ADDRESS: string =
-  "0x9b84D0E4fc807CB664aFdBF9E7096bed3a7aB18A";
-export const DEX_ADDRESS: string = "0x92c85c31c74F482AB30D94D7e5c63fe9BD53883B";
-export const ACTIVE_CHAIN: Chain = Mumbai;
+  "0x3A16505c38341D375E8Db9eA4b34F47817bD2C66";
+export const DEX_ADDRESS: string = "0xbf6EcC913eD463928520F9F48d1a06b7E1d6386F";
+export const ACTIVE_CHAIN: Chain = Base;
